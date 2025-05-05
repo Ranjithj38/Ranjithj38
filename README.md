@@ -39,7 +39,16 @@ Purpose: Suitable for feature extraction like minutiae detection or pattern matc
 Technique: Matplotlib subplots.
 Purpose: Visualizes the transformation at each stage for analysis and comparison
 
-#   Team Members     USN
-##  Ranjith          4SO22CD038
-##  Sudhanva Patil   4SO22CD055
-##  Dilip S Angadi     4SO23CD401
+## Technologies Used
+### Python 3.x
+### OpenCV
+### NumPy
+### Matplotlib
+### scikit-learn
+### scikit-image
+
+
+#    Team Members     USN
+###  Ranjith          4SO22CD038
+###  Sudhanva Patil   4SO22CD055
+###  Dilip S Angadi     4SO23CD401
