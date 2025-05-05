@@ -47,8 +47,8 @@ Purpose: Visualizes the transformation at each stage for analysis and comparison
 ##### scikit-learn
 ##### scikit-image
 
-
-#     Team Members     USN
-####  Ranjith          4SO22CD038
-####  Sudhanva Patil   4SO22CD055
+# Team Details
+###   Team Members       USN
+####  Ranjith            4SO22CD038
+####  Sudhanva Patil     4SO22CD055
 ####  Dilip S Angadi     4SO23CD401
